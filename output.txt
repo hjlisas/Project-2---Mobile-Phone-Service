@@ -1,0 +1,59 @@
+@subscribe 09215551234 JP Vergara prepaid
+
+prepaid number 09215551234 for JP Vergara activated
+@subscribe 09215551235 Marco Changho postpaid
+
+postpaid number 09215551235 for Marco Changho activated
+@load 09215551234 300.00
+
+300.0 pesos loaded for 09215551234
+@call 09215551234 09215551235 15 2
+
+2: 15-minute call made to 09215551235 from 09215551234
+@call 09215551234 09172222222 35 3
+
+3: 22-minute call made to 09172222222 from 09215551234
+@call 09215551234 09215551237 5 1
+
+call cannot be made.
+@undo 09215551234 2
+
+credited 120.0 pesos to 09215551234 2: 09215551235 15 minute(s) 
+@history 09215551234
+
+call history for 09215551234
+3: 09172222222 22 minute(s)
+@text 09215551234
+
+text message not sent
+@text 09215551235
+
+text message sent by 09215551235
+@call 09215551235 09171111111 10 2
+
+call cannot be made.
+@subscribe 09215551237 Luis Sarmenta postpaid
+
+postpaid number 09215551237 for Luis Sarmenta activated
+@pay 09215551234 100.00
+
+100.00 pesos paid by 09215551235
+@balance 09215551234
+
+balance for 09215551234 is P-116.0
+@due allpostpaid
+
+balance due for 09215551237 is P0.0
+balance due for 09215551235 is P1.0
+@balance allprepaid
+
+balance for 09215551234 is P-116.0
+@subscribe 09215551238 Jasper Globe prepaid
+
+prepaid number 09215551238 for Jasper Globe activated
+@due 09215551235
+
+balance for 09215551235 is P1.0
+@call 09215551235 09171111111 10 3
+
+call cannot be made.
